@@ -1,9 +1,47 @@
-
-#header-nav{
-    background-color: skyblue;
+body {
+  background-color: cyan;
 }
 
-section{
-    height: 1000px;
-    background-color: orange;
+#header-nav {
+  background-color: skyblue;
+  border: 2px solid black;
+  border-radius: 0;
+}
+
+.navbar-brand h1 {
+  color: black;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
+}
+
+#nav-list {
+  margin-top: 3px;
+  background: white;
+  margin: 0;
+}
+
+#nav-list a {
+  color: black;
+}
+
+.navbar-collapse {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+
+
+
+
+
+
+
+
+section {
+  height: 1000px;
+  background-color: orange;
 }
