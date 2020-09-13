@@ -1,28 +1,68 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <title>Boostrap Starter Page</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/styles.css">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Assignment 3</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/styles.css" />
   </head>
-<body>
+  <body>
+    <header>
+      <nav id="header-nav" class="navbar navbar-default">
+        <div class="container-fluid">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+            <button
+              type="button"
+              class="navbar-toggle collapsed"
+              data-toggle="collapse"
+              data-target="#collapser"
+              aria-expanded="false"
+            >
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Food, LLC</a>
+          </div>
+        </div>
+        <div class="collapse navbar-collapse" id="collapser">
+          <ul class="nav navbar-nav">
+            <li class="visible-xs"><a href="#chicken"> Chicken</a></li>
+            <li class="visible-xs"><a href="#beef"> Beef</a></li>
+            <li class="visible-xs"><a href="#sushi"> Sushi</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
 
-  <h1>Hello Coursera!</h1>
+    <div class="container-fluid" id="main-content">
+      <h1 class="text-center">Our Menu</h1>
 
-  <!-- jQuery (Bootstrap JS plugins depend on it) -->
-  <script src="js/jquery-1.11.3.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/script.js"></script>
-</body>
+      <section class="container">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias
+        recusandae velit obcaecati ullam quisquam dignissimos, tenetur delectus
+        minus? Architecto eius ipsum rerum ullam possimus eaque eos laborum
+        adipisci officia aliquam. Lorem ipsum dolor sit amet consectetur,
+        adipisicing elit. Sequi culpa, praesentium fugit quam cum aliquid quis
+        dolore odit pariatur dolores delectus tenetur facilis consequatur,
+        sapiente itaque ad recusandae quasi? Corrupti. Lorem ipsum dolor sit
+        amet consectetur, adipisicing elit. Similique fugit mollitia rerum
+        blanditiis consectetur ullam sit repudiandae itaque obcaecati ea
+        corrupti quas, officia cum maxime doloremque quae unde harum labore.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt,
+        officiis? Dolores saepe omnis iure cumque, quas aspernatur temporibus
+        similique dolorem nihil pariatur dolore nam, iusto quibusdam excepturi
+        fugit odit sit.
+      </section>
+    </div>
+
+    <!-- jQuery (Bootstrap JS plugins depend on it) -->
+    <script src="js/jquery-1.11.3.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+  </body>
 </html>
