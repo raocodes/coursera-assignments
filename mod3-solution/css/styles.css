@@ -1,5 +1,6 @@
 body {
   background-color: cyan;
+  font-family: "Oxygen", sans-serif;
 }
 
 #header-nav {
@@ -16,6 +17,7 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: 0.75;
+  font-family: "Lora", serif;
 }
 
 #nav-list {
@@ -26,6 +28,13 @@ body {
 
 #nav-list a {
   color: black;
+  text-align: center;
+  font-size: 15px;
+}
+
+#nav-list a:hover,
+#nav-list a:focus {
+  background-color: cyan;
 }
 
 .navbar-collapse {
@@ -33,13 +42,10 @@ body {
   padding-left: 0;
 }
 
-
-
-
-
-
-
-
+p#title {
+  font-size: 27px;
+  font-weight: bold;
+}
 
 section {
   height: 1000px;
