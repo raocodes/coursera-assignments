@@ -62,3 +62,13 @@ div #textbox h3{
     margin-top: -5px;
     font-size: 1.5em;
 }
+
+div#return a {
+    font-weight: bold;
+    color: black;
+    padding-bottom: 20px;
+  }
+
+div#return a:hover, div#return a:focus{
+    text-decoration: none;
+} 
