@@ -48,26 +48,27 @@ p#title {
   margin-top: -7px;
 }
 
-div #textbox{
-    border: 1px solid black;
-    padding: 20px;
-    margin-bottom: 20px;
-    margin-top: -5px;
-    background-color: lightcyan;
-    margin-right: -5px;
-    margin-left: -5px;
+div #textbox {
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: -5px;
+  background-color: lightcyan;
+  margin-right: -5px;
+  margin-left: -5px;
 }
 
-div #textbox h3{
-    margin-top: -5px;
-    font-size: 1.5em;
+div #textbox h3 {
+  margin-top: -5px;
+  font-size: 1.5em;
 }
 
 div#return a {
-    font-weight: bold;
-    color: black;
-  }
+  font-weight: bold;
+  color: black;
+}
 
-div#return a:hover, div#return a:focus{
-    text-decoration: none;
-} 
+div#return a:hover,
+div#return a:focus {
+  text-decoration: none;
+}
