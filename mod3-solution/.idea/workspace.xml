@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48225d6c-4655-47a2-82d5-17767d345926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +61,7 @@
       <updated>1600166733197</updated>
       <workItem from="1600166734326" duration="260000" />
       <workItem from="1600171818123" duration="9000" />
+      <workItem from="1602607536261" duration="202000" />
     </task>
     <servers />
   </component>
