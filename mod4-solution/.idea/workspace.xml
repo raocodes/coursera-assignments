@@ -20,6 +20,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c8fb64-5078-478c-bb95-606dbb4de773" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mod4-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mod4-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +55,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1hnnjZC8d5FNpnBn7bVZMOtUEql" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,10 +75,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html,css}" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ayush\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,6 +97,7 @@
       <workItem from="1602086613161" duration="29000" />
       <workItem from="1602442349208" duration="214000" />
       <workItem from="1602607519506" duration="8000" />
+      <workItem from="1604502046467" duration="38000" />
     </task>
     <servers />
   </component>
@@ -102,9 +128,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="100" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602442552948" />
-    <state x="0" y="0" key="SettingsEditor" timestamp="1602442565508">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="0" y="38" width="1452" height="1042" key="SettingsEditor" timestamp="1604502070772">
+      <screen x="0" y="38" width="1920" height="1042" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602442565508" />
+    <state x="0" y="38" width="1452" height="1042" key="SettingsEditor/0.38.1920.1042@0.38.1920.1042" timestamp="1604502070772" />
   </component>
 </project>
