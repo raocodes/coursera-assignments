@@ -20,24 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07c8fb64-5078-478c-bb95-606dbb4de773" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mod4-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mod4-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +80,9 @@
       <workItem from="1602442349208" duration="214000" />
       <workItem from="1602607519506" duration="8000" />
       <workItem from="1604502046467" duration="38000" />
+      <workItem from="1604509383469" duration="6000" />
+      <workItem from="1604520035128" duration="615000" />
+      <workItem from="1604587183022" duration="2000" />
     </task>
     <servers />
   </component>
@@ -120,14 +105,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="67" y="180" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1602442554341">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="101" y="314" width="724" height="456" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1604520049155">
+      <screen x="0" y="38" width="1920" height="1042" />
     </state>
     <state x="67" y="180" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1602442554341" />
-    <state x="100" y="85" key="FileChooserDialogImpl" timestamp="1602442552948">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="101" y="314" width="724" height="456" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.38.1920.1042@0.38.1920.1042" timestamp="1604520049155" />
+    <state x="150" y="168" width="636" height="748" key="FileChooserDialogImpl" timestamp="1604520048487">
+      <screen x="0" y="38" width="1920" height="1042" />
     </state>
     <state x="100" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602442552948" />
+    <state x="150" y="168" width="636" height="748" key="FileChooserDialogImpl/0.38.1920.1042@0.38.1920.1042" timestamp="1604520048487" />
     <state x="0" y="38" width="1452" height="1042" key="SettingsEditor" timestamp="1604502070772">
       <screen x="0" y="38" width="1920" height="1042" />
     </state>
