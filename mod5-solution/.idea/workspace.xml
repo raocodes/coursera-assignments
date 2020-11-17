@@ -6,15 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15b41728-f5c6-4827-942b-f37364460b64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/categories-title-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/categories-title-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/category-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/category-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/home-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/home-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/menu-item.html" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/menu-item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/menu-items-title.html" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/menu-items-title.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,8 @@
       <workItem from="1605552421097" duration="592000" />
       <workItem from="1605553030842" duration="6000" />
       <workItem from="1605553415193" duration="92000" />
+      <workItem from="1605611643298" duration="6000" />
+      <workItem from="1605611659585" duration="1000" />
     </task>
     <servers />
   </component>

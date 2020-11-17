@@ -20,25 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48225d6c-4655-47a2-82d5-17767d345926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mod3-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mod3-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/mod4-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/mod4-solution.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +71,7 @@
       <workItem from="1603194437328" duration="22000" />
       <workItem from="1603194491491" duration="97000" />
       <workItem from="1604502013128" duration="29000" />
+      <workItem from="1605611598536" duration="4000" />
     </task>
     <servers />
   </component>
