@@ -37,11 +37,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html}" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -58,6 +59,8 @@
       <workItem from="1605553415193" duration="92000" />
       <workItem from="1605611643298" duration="6000" />
       <workItem from="1605611659585" duration="1000" />
+      <workItem from="1606763207473" duration="16000" />
+      <workItem from="1606763397504" duration="46000" />
     </task>
     <servers />
   </component>
@@ -79,14 +82,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="866" y="203" width="636" height="710" key="FileChooserDialogImpl" timestamp="1605553444398">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="866" y="203" width="636" height="710" key="FileChooserDialogImpl/0.38.1920.1042@0.38.1920.1042" timestamp="1605553444398" />
-    <state x="458" y="38" key="SettingsEditor" timestamp="1605553451598">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="458" y="38" key="SettingsEditor/0.38.1920.1042@0.38.1920.1042" timestamp="1605553451598" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

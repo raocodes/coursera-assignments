@@ -22,6 +22,7 @@
     <list default="true" id="07c8fb64-5078-478c-bb95-606dbb4de773" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +58,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html,css}" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -85,6 +86,7 @@
       <workItem from="1604520035128" duration="615000" />
       <workItem from="1604587183022" duration="2000" />
       <workItem from="1605611605897" duration="5000" />
+      <workItem from="1606763176195" duration="26000" />
     </task>
     <servers />
   </component>
@@ -106,21 +108,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="101" y="314" width="724" height="456" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1604520049155">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="67" y="180" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.680@0.0.1280.680" timestamp="1602442554341" />
-    <state x="101" y="314" width="724" height="456" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.38.1920.1042@0.38.1920.1042" timestamp="1604520049155" />
-    <state x="150" y="168" width="636" height="748" key="FileChooserDialogImpl" timestamp="1604520048487">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="100" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602442552948" />
-    <state x="150" y="168" width="636" height="748" key="FileChooserDialogImpl/0.38.1920.1042@0.38.1920.1042" timestamp="1604520048487" />
-    <state x="0" y="38" width="1452" height="1042" key="SettingsEditor" timestamp="1604502070772">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1602442565508" />
-    <state x="0" y="38" width="1452" height="1042" key="SettingsEditor/0.38.1920.1042@0.38.1920.1042" timestamp="1604502070772" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

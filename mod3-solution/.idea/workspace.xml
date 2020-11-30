@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="48225d6c-4655-47a2-82d5-17767d345926" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +49,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html,css}" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -72,6 +73,7 @@
       <workItem from="1603194491491" duration="97000" />
       <workItem from="1604502013128" duration="29000" />
       <workItem from="1605611598536" duration="4000" />
+      <workItem from="1606763142133" duration="28000" />
     </task>
     <servers />
   </component>
@@ -93,11 +95,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="238" y="38" width="1361" height="1042" key="SettingsEditor" timestamp="1604502035181">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="629" y="63" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603194588075" />
-    <state x="238" y="38" width="1361" height="1042" key="SettingsEditor/0.38.1920.1042@0.38.1920.1042" timestamp="1604502035181" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

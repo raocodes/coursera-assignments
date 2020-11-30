@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3da970d5-8222-4806-923a-11cfb50dd448" name="Default Changelist" comment="" />
+    <list default="true" id="3da970d5-8222-4806-923a-11cfb50dd448" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,15 +47,16 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettier.files.pattern" value="{**/*,*}.{js,ts,jsx,tsx,html,css}" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="node" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -69,6 +72,8 @@
       <workItem from="1600171806490" duration="8000" />
       <workItem from="1604501993616" duration="14000" />
       <workItem from="1605611591684" duration="4000" />
+      <workItem from="1606762620559" duration="268000" />
+      <workItem from="1606763099828" duration="35000" />
     </task>
     <servers />
   </component>
@@ -90,11 +95,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="225" y="38" width="1452" height="1042" key="SettingsEditor" timestamp="1604502001467">
-      <screen x="0" y="38" width="1920" height="1042" />
-    </state>
-    <state x="150" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1600171811543" />
-    <state x="225" y="38" width="1452" height="1042" key="SettingsEditor/0.38.1920.1042@0.38.1920.1042" timestamp="1604502001467" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
