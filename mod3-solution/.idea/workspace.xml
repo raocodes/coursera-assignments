@@ -22,6 +22,8 @@
     <list default="true" id="48225d6c-4655-47a2-82d5-17767d345926" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod5-solution/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +76,9 @@
       <workItem from="1604502013128" duration="29000" />
       <workItem from="1605611598536" duration="4000" />
       <workItem from="1606763142133" duration="28000" />
+      <workItem from="1607327973250" duration="23000" />
+      <workItem from="1607328090635" duration="10000" />
+      <workItem from="1607328111257" duration="14000" />
     </task>
     <servers />
   </component>
