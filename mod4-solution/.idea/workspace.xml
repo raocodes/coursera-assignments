@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod5-solution/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
       <workItem from="1607328002217" duration="11000" />
       <workItem from="1607328104762" duration="2000" />
       <workItem from="1607328129058" duration="7000" />
+      <workItem from="1608325625525" duration="12000" />
     </task>
     <servers />
   </component>
