@@ -54,8 +54,8 @@
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="node" />
-    <property name="prettierjs.PrettierConfiguration.Package" value="/usr/lib/node_modules/prettier" />
+    <property name="prettierjs.PrettierConfiguration.NodeInterpreter" value="project" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ayush\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -78,6 +78,7 @@
       <workItem from="1607327961262" duration="5000" />
       <workItem from="1607328074009" duration="13000" />
       <workItem from="1608325469061" duration="130000" />
+      <workItem from="1610563975010" duration="20000" />
     </task>
     <servers />
   </component>
