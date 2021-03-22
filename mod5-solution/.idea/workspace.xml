@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand />
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15b41728-f5c6-4827-942b-f37364460b64" name="Default Changelist" comment="">
+    <list default="true" id="3e2cb756-ab3e-47f9-80d0-2462a47d57bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/mod4-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/mod4-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod4-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mod5-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mod5-solution.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,88 +27,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectId" id="1kNsX2f3T5PgWbst7ivHRhst7B5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1q7vjjeTEv4voyAp6xSiRrDqA8o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ayush\AppData\Roaming\npm\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.script.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="15b41728-f5c6-4827-942b-f37364460b64" name="Default Changelist" comment="" />
-      <created>1605552419818</created>
+      <changelist id="3e2cb756-ab3e-47f9-80d0-2462a47d57bf" name="Default Changelist" comment="" />
+      <created>1616443579341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605552419818</updated>
-      <workItem from="1605552421097" duration="592000" />
-      <workItem from="1605553030842" duration="6000" />
-      <workItem from="1605553415193" duration="92000" />
-      <workItem from="1605611643298" duration="6000" />
-      <workItem from="1605611659585" duration="1000" />
-      <workItem from="1606763207473" duration="16000" />
-      <workItem from="1606763397504" duration="46000" />
-      <workItem from="1606763499772" duration="4000" />
-      <workItem from="1607328019350" duration="51000" />
-      <workItem from="1607328139408" duration="69000" />
-      <workItem from="1607328414691" duration="4000" />
-      <workItem from="1608325641504" duration="9000" />
-      <workItem from="1608325799778" duration="3000" />
-      <workItem from="1610564037032" duration="72000" />
-      <workItem from="1610602301286" duration="23000" />
-      <workItem from="1610620267499" duration="26000" />
-      <workItem from="1610620302089" duration="23000" />
+      <updated>1616443579341</updated>
+      <workItem from="1616443580486" duration="31000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

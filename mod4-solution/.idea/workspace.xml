@@ -1,66 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="07c8fb64-5078-478c-bb95-606dbb4de773" name="Default Changelist" comment="">
+    <list default="true" id="33040cbe-879e-47fe-b752-ebb887aa0ea6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/mod2-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod2-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/mod3-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mod3-solution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mod4-solution.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mod4-solution.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/mod5-solution.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mod5-solution/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="JsFlowSettings">
-    <service-enabled>true</service-enabled>
-    <exe-path />
-    <other-services-enabled>true</other-services-enabled>
-    <auto-save>true</auto-save>
-  </component>
-  <component name="ProjectId" id="1hnnjZC8d5FNpnBn7bVZMOtUEql" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1q7vfCXw5ffGtwqizQDMheuz5SL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ayush\AppData\Roaming\npm\node_modules\prettier" />
     <property name="settings.editor.selected.configurable" value="settings.javascript.prettier" />
@@ -69,49 +45,17 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="07c8fb64-5078-478c-bb95-606dbb4de773" name="Default Changelist" comment="" />
-      <created>1600655860264</created>
+      <changelist id="33040cbe-879e-47fe-b752-ebb887aa0ea6" name="Default Changelist" comment="" />
+      <created>1616443544088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1600655860264</updated>
-      <workItem from="1600655861494" duration="1955000" />
-      <workItem from="1601295529036" duration="217000" />
-      <workItem from="1601997274457" duration="16000" />
-      <workItem from="1601997329355" duration="8000" />
-      <workItem from="1602086613161" duration="29000" />
-      <workItem from="1602442349208" duration="214000" />
-      <workItem from="1602607519506" duration="8000" />
-      <workItem from="1604502046467" duration="38000" />
-      <workItem from="1604509383469" duration="6000" />
-      <workItem from="1604520035128" duration="615000" />
-      <workItem from="1604587183022" duration="2000" />
-      <workItem from="1605611605897" duration="5000" />
-      <workItem from="1606763176195" duration="26000" />
-      <workItem from="1607328002217" duration="11000" />
-      <workItem from="1607328104762" duration="2000" />
-      <workItem from="1607328129058" duration="7000" />
-      <workItem from="1608325625525" duration="12000" />
-      <workItem from="1610564019971" duration="13000" />
+      <updated>1616443544088</updated>
+      <workItem from="1616443545269" duration="32000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
